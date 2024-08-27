@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lokhandegaurav185/NewsApp.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Lokhandegaurav185/NewsApp.git/static/js/main.7bae710a.js",
+    "static/js/453.b2157c12.chunk.js": "/Lokhandegaurav185/NewsApp.git/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/Lokhandegaurav185/NewsApp.git/static/media/loading.79a7d6d7d80e5130f2d6.gif",
+    "index.html": "/Lokhandegaurav185/NewsApp.git/index.html",
+    "main.e6c13ad2.css.map": "/Lokhandegaurav185/NewsApp.git/static/css/main.e6c13ad2.css.map",
+    "main.7bae710a.js.map": "/Lokhandegaurav185/NewsApp.git/static/js/main.7bae710a.js.map",
+    "453.b2157c12.chunk.js.map": "/Lokhandegaurav185/NewsApp.git/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7bae710a.js"
+  ]
+}
